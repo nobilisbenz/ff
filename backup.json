@@ -5,7 +5,8 @@
       "name": "hello",
       "created_at": 1768909896586,
       "parent_id": null,
-      "sort_order": 0
+      "sort_order": 0,
+      "updated_at": 1768909896586
     }
   ],
   "videos": [
@@ -20,8 +21,24 @@
       "folder_id": null,
       "start_time": 0,
       "end_time": 0,
-      "sort_order": 0
+      "sort_order": 0,
+      "updated_at": 1768909926739
+    },
+    {
+      "id": 10,
+      "url_id": "Hn4Z3K8kSrM",
+      "title": "Set up a new laptop for Software Development",
+      "thumbnail_url": "https://i.ytimg.com/vi/Hn4Z3K8kSrM/hqdefault.jpg",
+      "duration": 0,
+      "last_position": 0,
+      "created_at": 1768911369858,
+      "folder_id": null,
+      "start_time": 0,
+      "end_time": 0,
+      "sort_order": 0,
+      "updated_at": 1768911369
     }
   ],
-  "clips": []
+  "clips": [],
+  "deleted_log": []
 }
