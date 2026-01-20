@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "id": 4,
+      "name": "hello",
+      "created_at": 1768909896586,
+      "parent_id": null,
+      "sort_order": 0
+    }
+  ],
+  "videos": [
+    {
+      "id": 8,
+      "url_id": "8fLlEKxCdp8",
+      "title": "CLOSING OUR FIRST WEEK IN THE LEC WITH A BANGER | LR vs KC",
+      "thumbnail_url": "https://i.ytimg.com/vi/8fLlEKxCdp8/hqdefault.jpg",
+      "duration": 0,
+      "last_position": 0,
+      "created_at": 1768909926739,
+      "folder_id": null,
+      "start_time": 0,
+      "end_time": 0,
+      "sort_order": 0
+    }
+  ],
+  "clips": []
+}
