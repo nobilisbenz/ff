@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "id": 6,
+      "id": 7,
       "name": "cool",
       "created_at": 1768913484091,
       "parent_id": 4,
@@ -51,6 +51,11 @@
   ],
   "clips": [],
   "deleted_log": [
+    {
+      "entity_type": "folder",
+      "entity_id": "50123095-e043-437f-92e1-b13b0bedfd08",
+      "deleted_at": 1768913720
+    },
     {
       "entity_type": "folder",
       "entity_id": "50123095-e043-437f-92e1-b13b0bedfd08",
